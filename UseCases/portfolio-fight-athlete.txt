@@ -1,0 +1,23 @@
+Case Study: Fight Athlete
+Service Provided: Mobile App, Website
+url:https://brainstation-23.com/portfolio-fight-athlete/
+Industry: Fitness and Healthcare
+
+About the Company
+FightAthlete is the workout app offered by a Dutch company for fighters. The company is formed in collaboration with ReAT Sports. ReAT Sports Performance Center has facilities exclusively for top level athletes. Which also has many years of experience in offering strength and condition training and mental coaching to national and international athletes all over the world.
+
+Strategy/ Solution
+Initially the company was in need of a mobile application but after knowing our full potential they didn’t risk their website development work conveying to others. As a result, we were engaged to develop their website as well with the mobile application which is a very unique with its custom features.
+
+Features
+Real time Application in IOS and Android
+Workout videos for fitness
+Exercise based on workout
+Real time push notification
+Level wise workout
+Battle for workouts
+Analytics of workout
+Localization of the app
+Solutions Developed
+Website
+Mobile App

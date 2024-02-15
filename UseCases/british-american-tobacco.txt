@@ -1,0 +1,19 @@
+Case Study: British American Tobacco
+Service Provided: Survey App
+url:https://brainstation-23.com/british-american-tobacco/
+Industry: MNC
+
+About the Company
+British American Tobacco (BAT) is a British multinational tobacco company headquartered in London, United Kingdom. It is one of the world’s five largest tobacco companies. BAT needs to get the data to make good analytical business decisions to compete in the market by making the right decision. We helped them with their very own survey app that will meet their needs.
+
+Strategy/ Solution
+We have created such an app for BAT which will sync all data collected by the company representatives (with iPad) with main server when net connectivity is present. Equally, they demanded to sync procedures because multiple iPad needed to be used by multiple people while data were taken with pictures & signs (if allowed by users) for the marketing purpose.
+
+Features
+Application for selective employees
+Survey facility with registration
+Syncing facility for the data
+Photo of consumers
+Signature of consumers
+Development
+Survey App

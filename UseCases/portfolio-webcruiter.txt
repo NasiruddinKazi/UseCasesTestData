@@ -1,0 +1,26 @@
+Case Study: WebCruiter
+Service Provided: Recruitment Solution
+Url:https://brainstation-23.com/portfolio-webcruiter/
+Industry: Recruitment Agency
+About the Company:
+WebCruiter is a language-independent web-based recruitment solution provider in Norway. The solutions they provide is used by over 1,400 organizations with more than 65, 000 users in 80 countries.
+Solution:
+WebCruiter has no customer-facing recruitment management web application before. We developed a customer facing website and portal to manage their online order management journey.
+Impact:
+We developed such a web application through which over 65,000 users from 50+ countries connected to WebCruiter. Our language-independent online recruitment application meet the needs for process support, provides quality assurance and makes the customers working day simpler and more efficient.
+Features:
+CVs in multiple languages
+Create, resend, advert CV
+Creating and publishing job adverts
+Create and delete profiles
+Processing candidates and applications
+Adding attachments and references
+Administration of candidates
+Being searchable in the CV database (Open CV)
+Human Resource Management
+Communications center
+Report center
+System administration
+Solutions Developed
+Website
+Portal

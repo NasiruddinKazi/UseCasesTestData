@@ -1,0 +1,35 @@
+Case Study:Incepta Pharmaceuticals
+Service Provided: Mobile Sales Force Automation
+url:https://brainstation-23.com/incepta-pharmaceuticals/
+Brain Station 23 developed mobile Sales Force Automation app (mSFA) to create and mobilize sales force for Incepta Pharmaceuticals Limited. Our solution provides Incepta’s MPOs (in operation) with more effective, automated and manageable sales force.
+
+Solution:
+We developed an advanced mSFA for Incepta, where the MPOs can take orders, check real-time stocks, sample requisitions, see doctors’ call-reports and other reports etc. Now, they are using the mSFA Apps on their Android-based smartphones, making the work of the MPOs easier and bringing more approximate results.
+
+Impact:
+Introducing sales mobility, Incepta Pharma has brought about a successful sales automation application, capable to reduce sales cost and paper work at the same time by letting thousands of MPOs for their daily use.
+
+Features:
+Source code is open
+Reduces sales cycle duration
+Simplest user login feature
+Real-time stock comparing
+App synchronization with the depot’s stock
+Reports on visiting doctors
+Saves money by replacing paperwork
+Increases sales win rates
+Saves environment by less paperwork
+MPO's location tracking by GPS
+Reports of orders
+Summarized reports
+Activity history
+Run faster even on low-end android mobiles
+Places and stores orders offline
+Place orders with SMS as well
+Automatically syncs data when gets internet
+Tracks MPO’s position through GPS
+
+Solutions Developed:
+Mobile Sales Force App
+SMS Server
+API

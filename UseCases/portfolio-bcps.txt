@@ -1,0 +1,20 @@
+Case Study: Bangladesh College of Physicians and Surgeons
+Service Provided: Web Portal
+url:https://brainstation-23.com/portfolio-bcps/
+Industry: Education
+
+About the Company
+Bangladesh College of Physicians and Surgeons has been the pioneer in developing post-graduate medical education in this country. Historically, the College bears a heritage to College of Physicians and Surgeons of Pakistan of which it was the eastern wing. Following the independence of Bangladesh, the College was recreated as a statutory body by a Presidential order, later on ratified by an act of the parliament, to steer postgraduate medical education of a vastly populated, poorly resourced and war-ravaged country.
+
+Strategy/ Solution
+Our software aims at helping them with their entire examination process including registration, generating roll number, making seat plans and so forth.
+
+Features
+BCPS Online Registration
+Online Registration for FCPS-I, FCPS-II, Sub-Specialty, MCPS exam
+Seat Planning
+Admit card generation and download
+View result etc.
+Solutions Developed
+Web Portal
+Admin Portal

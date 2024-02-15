@@ -1,0 +1,30 @@
+Case Study: TechStep
+Service Provided: Web Portal
+Url:https://brainstation-23.com/techstep/
+Industry: Telco
+About the Company
+
+Techstep ASA is a leading provider of mobility and communication services to business customers in Norway and the Nordic countries. It is positioning itself as a leading Nordic enabler of the digital workplace. This organization has approximately 220 Norway & Sweden based employees, serving close to 6,000 customers and 620,000 end users across various industries in the private and public sectors. As a software development partner, Brain Station 23 Ltd developed & enhanced the Business portal and services for Techstep.
+
+Strategy/ Solution
+We have built a modern, responsive, integrated web portal for Techstep that allows their customers to self-serve and manage their services seamlessly from a single user interface. It is a cloud-based .NET solution with a SPA front-end hosted on Microsoft Azure.
+
+Features
+User Authentication & Authorization
+Dashboard
+Invoice / Usage Management
+Device Management
+Hardware Service Management
+Subscription Management
+Contact Management
+FAQ
+Security
+News & Links
+Customer Management
+Service Management
+User Management
+Responsive UI
+Globalization
+API Layer
+Development
+Cloud-based Web Portal

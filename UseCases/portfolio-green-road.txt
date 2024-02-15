@@ -1,0 +1,42 @@
+Case Study: Green Road
+Service Provided: Fleet Management System
+url:https://brainstation-23.com/portfolio-green-road/
+Industry: Transport
+
+About the Company
+Green Road is a US and UK based business of Fleet management system. Brain Station 23 has developed a system for the company which is a vehicles and drivers’ safety system that includes tracking management and performance monitoring activities.
+
+Strategy/ Solution
+We have been developing two major applications for GreenRoad. One is “Support console” which is an admin panel for the vehicle tracker management system. The admin can track all the customers’ vehicles under one management system by monitoring. The features also include tracking device management, controlling cameras in vehicle, controlling beacons in vehicles, communication with different adapters for unit installing, speed tracking etc. Then Installer app is dedicated for different contractors to install the devices in the clients’ vehicles. Besides these two, we have also been working on several small projects for the company’s internal development purpose.
+
+Features
+DRIVER SAFETY
+Objective In-Vehicle Feedback
+Safety Scores
+Gamification
+In-Vehicle Video
+Safety Hotspots
+Dashboard
+Instant Driving Tips
+OPERATIONAL EFFICIENCY
+Live Tracking & Resource Locator
+Landmarks & Geo-Fencing
+Idling Hotspots
+Route Replay & Tracking History
+Fuel & Idling Optimization
+Vehicle Health & Service Management
+Real-time Alerts
+Dashboards, Management Tools & Reports
+Administration & Utilization Reports
+COMPLIANCE
+Fleet Document Management
+Expense Management
+Fuel Card Integration
+Tax & Fuel Regulation
+PERFORMANCE CONSULTING
+Change Management Planning
+Educational Resources
+Driver Engagement
+Program Planning
+Development
+Mobile App

@@ -1,0 +1,8 @@
+Case Study: Canadian Real-Estate Market Place
+url:https://brainstation-23.com/portfolio/case-study-canadian-real-estate-market-place/
+Service Provided: Real-Estate Market Place
+A Canada based team devoted real estate marketplace for over 25 years. They have their own market place name 'CondoNow'.
+Solution:Slow and complex condo shopping was a huge problem to scale their business. We helped them by developing an online marketplace which helped them to reach more customers in one place.
+Impact:We developed such a marketplace for Canadian real-estate group with which buyers & investors can get info of over 3000 real-estate agents. Buying and selling condos thus have become fast and easy for developers, agents, buyers and sellers altogether.
+Features:Search for a condo by price, location, occupancy date, amenities and much more, using an easy to use map-based search engine.Exclusive access to the latest information.Access to free up-to-date, unbiased info to make the best possible buying decisions.Instant alerts for projects of interest, deals and promotions.New condo buyers & investors can contact developers directly or work through an agent.Agents can sell more researchless with access to their own portal at agen.condonow.com
+Development:Online Market Place

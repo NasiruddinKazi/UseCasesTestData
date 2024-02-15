@@ -1,0 +1,44 @@
+Case Study: nSales
+Service Provided: nVision Mobile Solution
+Url:https://brainstation-23.com/portfolio-client-nsales-nvision-mobile/
+Industry leader nSales optimizing solutions for the wholesale industry since 2005. They have B2B and B2C e-commerce solutions serving more than 2500+ sales reps and 100+ brands worldwide.
+
+Solution
+nSales has no good online order management tool earlier. We developed the sales automation system for nSales along with nVision office, nVision data port, nVision web services and mobile app.
+
+Impact
+We developed such solutions through which more than 2500+ sales rep and 100+ brands doing B2B & B2C e-commerce business worldwide.
+
+Features
+nVision Office
+Company registration
+User Management
+Company-wise feature management
+Data import & export Management
+Reporting
+Various administrative activities
+nVision Mobile
+Company registration
+Data synchronization
+Order creation using blue-tooth & camera bar-code scanner
+Customer creation
+Customer visit creation
+Calendar Event Management
+Order email facility
+Invoice printing using wireless printer
+Dropbox integration
+Dashboard Management
+nVision DataPort (Provides integrations of various ERP and Accounting solution)
+Economic
+QuickBooks (Online & desktop)
+Bexonline
+Microsoft Axnav
+Microsoft Nav
+Microsoft C5
+nVision Web-service
+Provides integrations of various ERP and Accounting solution.
+Solutions Developed
+nVision Office
+nVission Dataport
+nVision Webservices
+nVision Mobile Platform

@@ -1,0 +1,51 @@
+Case Study:Financial Associates Recruitment Solution
+Service Provided: Automated Recruitment Management Platform
+Url: https://brainstation-23.com/financial-associates-recruitment-solution/
+
+The largest global provider of insurance, annuities, and employee benefit programs company with over 16,000 field force and employees. They provide financial protection to the people of Bangladesh through a mix of traditional and innovative products. Such as- life insurance policies, pension schemes, children’s education policy, Shariah-based saving schemes and many more products.
+
+Challenges:
+They required a solution that would enable them to manage their entire recruitment process efficiently. Before the Integration of Financial Associates Recruitment Solution, all their financial associate onboarding and HR tasks were done manually. They needed a centralized automated guided and LMS-based recruitment management solution that would allow them to manage and create courses based on their candidates’ training needs. They also had trouble scheduling exams and keeping track of a large number of candidates at once.
+
+Solution:
+We’ve developed an online recruiting system called – 'Financial Associates Recruitment Solution', where they can manage all of their new financial associates, new hires, training, and online exams. This solution allowing them to seamlessly onboard all of their new employees in a single system.
+Applicants can now apply for the required job role and submit all of their required documents/resumes without having to visit any offices in person. After completing the registration process, candidates can sit for the exam at their own convenient time on the assigned fixed date.
+The onboarding of new financial associates is now much easier and more interactive than before, both for the candidate and the HR management system, Unit Managers, Agency supervisors and so on. 'Financial Associates Recruitment Onboarding' can automatically tag candidates with their area branch managers or unit leaders. Additionally, candidates can manually choose their mentor from the system portal based on their preferences.
+Using the integrated Financial Associates Recruitment Solution system features, Managers can track candidate performance, monitor the real-time performance of their online training programs and exams via their dashboard.
+They can now monitor the progress of the prospect leads and inform or take the necessary measures from the learning ecosystem with their online exams and training sessions, where both parties can receive automatic reminders for tasks assigned to them through the system.
+The admin panel can manage their own question banks as per their demand and can manage the question answers, marks etc. for the online exam. Even after completing the online exam, the system can immediately review and reveal the results. As a result, of this entire process, candidates can move forward with their progress.
+We’ve integrated a course creation management system to assist them in creating more effective and engaging learning programs for their job candidates. As a result, the admin panel can now create dynamic digital training content for learners, and users can access any training material and courses information, such as (Video and audio clips, Images, text, buttons, animation, quiz and so on) with just a few clicks at any time and on any device.
+From the document verification feature of the portal system admin panel can detect who has submitted all of the required documents and verify them directly through the company’s integrated online server system. In addition, the system can also identify any missing documents that a candidate must submit and notify the administrative panel of any errors. It also keeps track of all the data in the 'Financial Associates Recruitment Solution ' system. The system can also validate the authenticity of a candidate’s reference source and notify the admin panel of the number of missing criteria/references from each resume.
+They can now identify their best candidates while also understanding them more holistically with the help of our integrated Recruitment and Training Solution system in their HR activities. Administrators and managers can set multiple goals for their candidates, and the system will automatically recognize the policy number. The integrated solution system sends the policy number to their insurance policy platform for authentication, ensuring that there are no incorrect inputs or forgeries.
+The campaign management feature allows the authority to track which platform\media the candidates prefer when they apply for a job through a different campaign.
+Impact
+By incorporating the user-friendly Financial Associates Recruitment Solution system features, Managers can track candidate performance for their recruitment process.
+
+The company can streamline its manual recruitment process by our solution, reduce company costs, save time by eliminating paperwork and manual tasks for employee onboarding, as well as simplify the application and invitation process of hiring resources from the job market for both organizers and applicants via the financial associate registration feature.
+
+As a result of the tag with branch/unit manager feature in the integrated recruitment system, every manager/mentor can keep track of a candidate’s progress status regarding whether they are performing their task or not, which assists their company decision-makers in accurately evaluating each and every employee’s performance and making informed decisions on behalf of their job candidate, while also increasing the visibility of their entire HR function.
+
+They no longer need to manually update the old data by paperwork, which saves money on printing and storing them. It also reduces duplication, produces more accurate talent data, and makes it easier for users to share talent data.
+
+Each candidate can easily keep up to date with the training materials through their recruitment and Training Solution system at any time. The HR function’s operational performance and ROI improved after the implementation of the 'Financial Associates Recruitment Solution' system.
+
+Features:
+Financial associate registration
+Tag with unit/branch manager
+Online training
+Training material creation
+Online exam
+Online exam question creation
+ATP application
+Summary of fieldwork
+Necessary document upload and verification
+Policy verification
+Candidate reference verification
+BM & AE viva pass acknowledgement
+Campaign management
+Separate application for the candidate / Admin/UM /BM
+
+Technologies:
+Microsoft Tech stack
+Angular
+Hangfire etc

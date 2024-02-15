@@ -1,0 +1,30 @@
+Case Study: 	Universal Tennis
+Service Provided: Tournament Management System
+Url: https://brainstation-23.com/case-study-universal-tennis/
+Industry: Event Management
+About the Company
+UBS provides financial advice and solutions to wealthy, institutional and corporate clients worldwide, as well as private clients in Switzerland. The operational structure of the Group is comprised of our Corporate Center and five business divisions: Wealth Management, Wealth Management Americas, Personal & Corporate Banking, Asset Management and the Investment Bank. UBS’s been sponsoring many sporting events as well and they’ve been organizing international tennis tournaments.
+
+Strategy/ Solution
+Our client asked to automate a tennis tournament entirely with sufficient features to run and manage a tennis tournament. Some of the features we built for them are Payment for Event Playing, Form Builder, Player Setup, Tournament Setup, Play Level Setup, Bracket Setup, Sponsor Setup, Facility Setup, Scheduling, Accounts, Budgeting, Fixture (Bracket), Excel export, Pdf Generation, Background Scheduling, Email, Templates etc.
+
+Features
+Payment for Event Playing
+Form Builder
+Player Setup
+Tournament Setup
+Play Level Setup
+Bracket Setup
+Sponsor Setup
+Facility Setup
+Scheduling
+Accounts
+Budgeting
+Fixture (Bracket)
+Excel export
+Pdf Generation
+Background Scheduling
+Email templates
+Development
+DNN
+CMS

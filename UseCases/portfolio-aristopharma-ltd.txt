@@ -1,0 +1,26 @@
+Case Study: Aristo Pharma Ltd.
+Service Provided: Mobile Sales Force Automation Apps
+url:https://brainstation-23.com/portfolio-aristopharma-ltd/
+Industry: Pharmaceuticals
+
+About the Company
+Aristopharma Ltd. is one of the Top 10 pharmaceutical companies in Bangladesh. With the robust product range of around 200 brands in 400 dosage forms Aristopharma focuses to be a major player in the branded generic market of this region. This requires sales force automation a must for getting the most sales in the market.
+
+Strategy/ Solution
+We developed an advance mSFA for Aristopharma. So now the MPOs can take orders, check real time stocks, sample requisitions, see Doctors’ call reports & other reports etc. by using the App on their Android based smart phones. So, works of MPOs have become easier, faster & fruitful than before.
+
+Impact
+The team developed the app in 2014 for Aristopharma considering that for MPOs it will be easier to place all the collected data into one place, for monitoring body it’ll be easier to track the records of the MPOs. Thus they are having now a faster, easier, transparent and efficient sales automation app.
+
+Features
+Source code is open
+Simplest User Login feature
+Real time stock comparing
+App synchronization with the depot’s stock
+Reports on visiting doctors
+MPO's location tracking by GPS
+Reports of orders
+Summarized reports
+Activity history
+Development
+Sales force mobile-app
